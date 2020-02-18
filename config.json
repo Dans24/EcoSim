@@ -1,0 +1,8 @@
+{
+    "population number": 100,
+    "initial resources": 100,
+    "resources grow rate": 100,
+    "max farming": 5,
+    "max manufacturing": 5,
+    "birth rate": 0.0001
+}
